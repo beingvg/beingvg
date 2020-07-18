@@ -1,6 +1,6 @@
 ### Hey there 👋
-I am Vaibhav, Leaning C++ and sharpening my skills on DS-Algo.
-Practicing coding on Linux(OS), Vim(Editor), Git(VCS).
+I am Vaibhav, leaning C++ and sharpening my skills on DS-Algo.
+Practicing coding on Linux(OS), Vim(Editor), Git(VCS).       
 Contact : Beingvg@hotmail.com
              LinkedIn @beingvg
              Instagram @beingvg
