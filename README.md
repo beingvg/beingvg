@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey there 👋
+###I am Vaibhav, Leaning C++ and sharpening my skills on DS-Algo.
+###Practicing coding on Linux(OS), Vim(Editor), Git(VCS).
+###Contact : Beingvg@hotmail.com
+             LinkedIn @beingvg
+             Instagram @beingvg
+             Facebook @beingvibs
 
 <!--
 **beingvg/beingvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
